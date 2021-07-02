@@ -10,4 +10,8 @@ public class MathCalc {
         return n%2==0?true:false;
     }
 
+    public boolean isOdd(int n){
+        return n%2==0?false:true;
+    }
+
 }
